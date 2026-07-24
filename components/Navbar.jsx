@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-dark bg-dark">
       <div className="container">
         <Link href="/" className="navbar-brand">
-          Parking Management
+          P A R K I R I N
         </Link>
       </div>
     </nav>
